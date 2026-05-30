@@ -1,4 +1,4 @@
-﻿# 🎨 Image Prompts Study
+﻿# 🎨 Anime Prompts Study
  
 Este repositório documenta meus estudos com **Stable Diffusion em estilo anime**.  
 Rotina: **1h30 por dia**, evoluindo de prompts básicos até avançados, com desafios semanais para consolidar o aprendizado.
