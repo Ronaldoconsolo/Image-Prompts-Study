@@ -258,5 +258,21 @@ Este repositório está organizado em níveis de complexidade para acompanhar a 
 - [ ] Flux Workflows
 - [ ] Projeto Final de Portfólio  
 
+## 🛠️ Ferramentas de Estudo
+
+- ComfyUI
+- Google Colab
+- Stable Diffusion
+- SDXL
+- GitHub
+
+## 📚 Próximos Estudos
+
+- Fluxo básico do ComfyUI
+- Checkpoints e modelos
+- LoRAs
+- ControlNet
+- Personagens consistentes
+
 **Always learning!! 🚀**
 
